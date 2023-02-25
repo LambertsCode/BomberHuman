@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7087be1464fa1874a8724a1cd29cea50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ridgedBody: {instanceID: 0}
+  - playerBrain: {fileID: 11400000, guid: bb73e6a5611e8244ab6a88705ad047e0, type: 2}
+  - playerLight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

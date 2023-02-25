@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5a6f9d20fe14037458a94f568276efb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - playerGO: {instanceID: 0}
+  - playerScore: {fileID: 11400000, guid: 1c7f6643f8556f449bbe9ff992ffbb12, type: 2}
+  - playerHighScore: {fileID: 11400000, guid: 37c429175878faa4ea3ede6380fb2d29, type: 2}
+  - maxActiveBombs: {instanceID: 0}
+  - movementSpeed: {instanceID: 0}
+  - bombPrefab: {fileID: 6950647296477794461, guid: e0393fdfba9b8c24785b86475f3b195a, type: 3}
+  - bombPlacementDelay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

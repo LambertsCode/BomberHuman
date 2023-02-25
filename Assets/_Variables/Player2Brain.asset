@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a6f9d20fe14037458a94f568276efb0, type: 3}
+  m_Name: Player2Brain
+  m_EditorClassIdentifier: 
+  gameManager: {fileID: 0}
+  playerNumber: 0
+  playerGO: {fileID: 0}
+  playerScore: {fileID: 11400000, guid: b46474871530b6642b8a120d10d169b2, type: 2}
+  maxActiveBombs: {fileID: 11400000, guid: b44a96e290449ea49898af69d359173d, type: 2}
+  upKey: 273
+  downKey: 274
+  leftKey: 275
+  rightKey: 276
+  bombKey: 271
+  ready: 0
+  lightColor: {r: 1, g: 0, b: 0.06855869, a: 1}
+  movementSpeed: {fileID: 11400000, guid: 951ab39ade724aa4dace7970d6b22937, type: 2}
+  bombPrefab: {fileID: 9160306822903165963, guid: a4e84a75465768f4c8bbd2c5d87c61ee, type: 3}
+  bombPlacementDelay: {fileID: 11400000, guid: bc93f26073d57864084338dea6ad7be1, type: 2}
+  nextBombTime: 0
+  activeBombs: []

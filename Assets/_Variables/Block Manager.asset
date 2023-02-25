@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adcf0a92dcce01748add2b13d68de8d9, type: 3}
+  m_Name: Block Manager
+  m_EditorClassIdentifier: 
+  activeBlocks: []
+  breakableBlockPrefab: {fileID: 8044466852828757460, guid: c89c3cfff674c804ca3b076bd2a358ca, type: 3}
+  maxBlock: {x: 4, y: 5}
+  minBlock: {x: -3, y: -2}
